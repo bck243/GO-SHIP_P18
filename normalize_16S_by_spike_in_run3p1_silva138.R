@@ -2,7 +2,7 @@
 # GOAL
 ##########################
 # normalize 16S by spike in recovered to estimate "absolute" abundance of each ASV in copies/mL
-# normalization methods are based on Lin et al. 2018, Applied and Envrionmental Microbiology
+# normalization methods are based on Lin et al. 2019, Applied and Envrionmental Microbiology
 # use taxonomy from silva 138
 
 ##########################
